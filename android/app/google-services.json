@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360103241415",
+    "project_id": "task-mobile-1ebb0",
+    "storage_bucket": "task-mobile-1ebb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360103241415:android:897b5f2790a02950ff00e2",
+        "android_client_info": {
+          "package_name": "com.taskmobile.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABixXWwcBf7oPC_eXgl3Nl4ZE9EX4JZCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
